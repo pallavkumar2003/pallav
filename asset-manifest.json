@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pallav/static/css/main.dc4d6ff2.css",
+    "main.js": "/pallav/static/js/main.2532f9d5.js",
+    "static/js/453.04ae909f.chunk.js": "/pallav/static/js/453.04ae909f.chunk.js",
+    "index.html": "/pallav/index.html",
+    "main.dc4d6ff2.css.map": "/pallav/static/css/main.dc4d6ff2.css.map",
+    "main.2532f9d5.js.map": "/pallav/static/js/main.2532f9d5.js.map",
+    "453.04ae909f.chunk.js.map": "/pallav/static/js/453.04ae909f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.2532f9d5.js"
+  ]
+}
